@@ -11,3 +11,7 @@ pipenv run python -m src.main
 ```bash
 docker compose up --build
 ```
+
+## Deploy
+
+https://app.northflank.com
